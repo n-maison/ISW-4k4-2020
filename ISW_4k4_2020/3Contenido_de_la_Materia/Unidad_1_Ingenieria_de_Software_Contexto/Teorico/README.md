@@ -1,8 +1,2 @@
 # ISW-4k4-2020
-Repositorio documental de la carrera ingenieria en sistemas
-Es necesario tener
-
-*	Cuenta en github, para poder consultar el material, y ser colaboarador para poder proponer cambios
-
-
-####Página en construcción
+Se encontrara Todo el Material de la Catedra de Ingenieria de Software de la Unidad 1 parte Teorica dividido por Clase Teorica Online, Pepers, Presentaciones Teoricas Filminas y Trabajos Teoricos Concelptuales.
